@@ -22,5 +22,9 @@ row 2
 row 3
 row 4
 b1 sychroized stage test
+<<<<<<< HEAD
 Unknown branch.
+>>>>>>> temptest
+=======
+asdfadsfadfUnknown branch.
 >>>>>>> temptest
